@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUYKiAZRe1gBeD1+u3pZnQBw+nyzpfijmy6w3rG8iTmJW18Yv0gR4KQGa2PQNdE0NZTIA47AbeEU+rNT+83Glw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\luket\\projects\\learn-kafka\\MonitorService\\MonitorService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luket\\.nuget\\packages\\confluent.kafka\\2.6.0\\confluent.kafka.2.6.0.nupkg.sha512",
+    "C:\\Users\\luket\\.nuget\\packages\\librdkafka.redist\\2.6.0\\librdkafka.redist.2.6.0.nupkg.sha512",
+    "C:\\Users\\luket\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

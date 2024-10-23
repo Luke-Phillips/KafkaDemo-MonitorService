@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vy8Bt/GlS3gpNOxVmwzN2COyqep39WRH5glB5SvN+ws=",
+  "Source": "MonitorService",
+  "BasePath": "_content/MonitorService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
